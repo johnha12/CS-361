@@ -1,0 +1,25 @@
+[  
+  {    
+    "id": 1,    
+    "name": "Milk Tea",
+    "customizable": true,
+    "customizeOptions":{"Large" : 0.50, "add boba": 0.50, "add pudding":0.50, "change sugar level":"", "change ice level":""},
+    "price": 5.00
+  },  
+
+  {    
+    "id": 1,    
+    "name": "Milk Tea",
+    "customizable": true,
+    "customizeOptions":{"Large" : 0.50, "add boba": 0.50, "add pudding":0.50, "change sugar level":"", "change ice level":""},
+    "price": 5.00
+  },  
+
+  {    
+    "id": 3,    
+    "name": "Matcha cake by Slice",
+    "customizable": false,
+    "customizeOptions":{},
+    "price": 7.99 
+  }
+]
